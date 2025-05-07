@@ -4,14 +4,14 @@ import os
 from weather_aggregation import cleaned_aggregated_dfs
 
 #Output Folders
-output_folder1 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\quarterly temperature"
-output_folder2 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\precipitation by month"
-output_folder3 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rain stats"
-output_folder4 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rfs stats"
-output_folder5 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rain_snow stats"
-output_folder6 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\snow stats"
-output_folder7 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\conditions"
-output_folder8 = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\temperature box plot"
+output_folder1 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\quarterly temperature"
+output_folder2 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\precipitation by month"
+output_folder3 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rain stats"
+output_folder4 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rfs stats"
+output_folder5 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\rain_snow stats"
+output_folder6 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\snow stats"
+output_folder7 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\conditions"
+output_folder8 = "C:\\Users\\******\\******\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Graphs\\temperature box plot"
 
 
 #Quarterly Temperature Graphs
