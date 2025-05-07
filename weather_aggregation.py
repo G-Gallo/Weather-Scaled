@@ -3,10 +3,10 @@ import pymysql
 import pandas as pd
 
 """#Import MySQL Database
-host = '127.0.0.2'
-port = 3306
-user = 'root'
-password = 'GratCode1122'
+host = '******'
+port = ******
+user = '******'
+password = '******'
 database = 'weather_databases'
 
 connection = pymysql.connect(host=host,
@@ -28,7 +28,7 @@ cursor.close()
 connection.close()"""
 
 #Test Data
-file_path = "C:\\Users\\garre\\OneDrive\\Desktop\\Coding\\Port_Project\\Korea Weather\\Weather_Scaled\\Raw_10_Country_Data.xlsx"
+file_path = "******"
 sheet_name = 'Raw_10_Country_Data'
 df_dict = pd.read_excel(file_path, sheet_name=sheet_name)
 
