@@ -8,10 +8,10 @@ from weather_aggregation import cleaned_aggregated_dfs
 Base = declarative_base()
 
 #Database Credentials
-USERNAME = "root"
-PASSWORD = "GratCode1122"
-HOST = "127.0.0.2:3306"
-DATABASE = "world_weather2"
+USERNAME = "*******"
+PASSWORD = "******"
+HOST = "******"
+DATABASE = "*******"
 
 # Create Database Engine
 engine = create_engine(f"mysql+pymysql://{USERNAME}:{PASSWORD}@{HOST}/{DATABASE}")
